@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Hearts Connect",
+  "description": "A modular dating MVP featuring instant chat, social discovery, anonymous icebreakers, and structured matching with Instagram trust integration.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
